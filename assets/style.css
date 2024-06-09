@@ -198,6 +198,11 @@ nav a {
 #contact .container {
 	display: flex;
 }
+
+.contact__title {
+	font-size: 1.75rem;
+}
+
 .picture.right::before {
 	content: ' ';
 	background-color: #BEB45A;
